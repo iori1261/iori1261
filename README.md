@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-SRE / Platform Engineering | Azure · Terraform · GitHub · New Relic | DevOps, Developer Enablement & Observability
+SRE / Platform Engineering | DevOps, Developer Enablement & Observability
 
 ## 🔧 What I Do
 
