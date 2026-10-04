@@ -107,29 +107,29 @@ SRE / Platform Engineering | DevOps, Developer Enablement & Observability
 <tr>
 <td width="33%" valign="top">
 
-### 🖤 yami-term
+### ✨ SpotLight
 
-Electron + xterm.js + node-pty で作った自作ターミナルエミュレータ。Liquid Glass テーマを載せ、271 件のテストはすべてグリーン。
+隠れた才能を見つけるプラットフォーム。Flutter で iOS / Android を実装し、Flask で認証・投稿・通知の API を提供している。
 
-`Electron` `xterm.js` `node-pty`
+`Flutter` `Flask` `Firebase` `PostgreSQL`
 
 </td>
 <td width="33%" valign="top">
 
-### 📊 HEADROOM
+### 🤖 CLAUDE Governance
 
-Claude Code / Desktop の使用状況を可視化するローカルダッシュボード。トークン消費・コンテキスト・キャッシュ効率・レート制限をリアルタイムに表示し、マルチエージェントの動きも追える。
+対象リポジトリへ標準の CLAUDE.md を PR として提案する Python CLI。リポジトリは直接変更せず、結果は Slack に通知する。
 
-`TypeScript` `Claude` `Dashboard`
+`Python` `GitHub App` `Slack`
 
 </td>
 <td width="34%" valign="top">
 
-### 🎓 graduation-project
+### 💴 [my-benz-is-in-tokens](https://github.com/iori1261/my-benz-is-in-tokens)
 
-相談マッチングと PC サポートを目的とした Flutter アプリ。
+GitHub Copilot のトークン消費を円換算し、それで何が買えるかまで見せる canvas 拡張。
 
-`Flutter` `Dart`
+`JavaScript` `Copilot` `Canvas`
 
 </td>
 </tr>
