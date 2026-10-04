@@ -2,7 +2,7 @@
 
 # IORI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&height=40&lines=SRE%E3%83%BB%20Platform%20Engineer%20%2F%20Developer%20Enablement" alt="SRE・ Platform Engineer / Developer Enablement" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&height=40&lines=SRE%E3%83%BB%20Platform%20Engineer%20%2F%20Developer%20Enablement" alt="SRE・Platform Engineer / Developer Enablement" />
 
 </div>
 
@@ -16,24 +16,26 @@ SRE / Platform Engineering | Azure · Terraform · GitHub · New Relic | DevOps,
 <tr>
 <td width="33%" valign="top">
 
-### 🛠 Infrastructure / SRE
+### 🛠 SRE / Platform Engineer
 
-- Terraform による AWS インフラ設計・構築
-- オンプレサーバーを含む運用・保守
-- IAM 権限最適化・セキュリティレビュー
-- CI/CD 構築、コスト最適化
-- 障害調査・オンコール対応
-- Slack 連携 Bot / 通知の開発
+- ☁️ Azure を中心としたクラウドインフラの設計・構築
+- 🏗️ Terraform / HCP Terraform による Infrastructure as Code
+- 🔄 GitHub Actions を活用した CI/CD・デプロイ自動化
+- 🔭 New Relic / OpenTelemetry を中心とした Observability
+- 🚨 障害調査・インシデント対応・信頼性向上
+- 🛡️ IAM / Entra ID / セキュリティを考慮したクラウド基盤設計
+- 💰 クラウドコスト・リソースの最適化
+- 🧩 Platform Engineering / Developer Experience の改善
 
 </td>
 <td width="33%" valign="top">
 
 ### 💻 Backend / Frontend
 
-- API / BFF などのバックエンド開発
-- Web / デスクトップのフロントエンド実装
-- モバイルアプリ開発（Flutter / Swift）
-- AI / LLM を活用したプロダクト開発
+- 🔌 Flask / Spring Boot / Express で、認証・投稿・通知・WebSocket を持つ API を実装
+- 🌐 Next.js と React で Web フロントエンドを実装
+- 📱 Flutter で、Firebase 認証と画像・動画投稿のある iOS / Android アプリを開発
+- 🍎 Swift で iOS アプリとホーム画面ウィジェットを実装
 
 </td>
 <td width="34%" valign="top">
