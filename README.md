@@ -6,7 +6,7 @@
 
 SRE / Full-stack Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=40&lines=SRE%20%C2%B7%20Terraform%20%2F%20AWS;%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20%C2%B7%20%E5%8F%AF%E7%94%A8%E6%80%A7%20%C2%B7%20%E3%82%B3%E3%82%B9%E3%83%88;%E9%96%8B%E7%99%BA%E4%BD%93%E9%A8%93%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B;AI%20%E3%81%A7%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B" alt="SRE · Terraform / AWS / セキュリティ · 可用性 · コスト" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=40&lines=SRE%20%C2%B7%20Terraform%20%2F%20AWS;%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20%C2%B7%20%E5%8F%AF%E7%94%A8%E6%80%A7%20%C2%B7%20%E3%82%B3%E3%82%B9%E3%83%88;%E9%96%8B%E7%99%BA%E4%BD%93%E9%A8%93%E3%82%92%E4%B8%8A%E3%81%92%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B;AI%20%E3%81%A7%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%82%92%E3%83%AA%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B" alt="SRE / Microsoft Azure /  Terraform / New Relic / PagerDuty / DevOps / FinOps /" />
 
 </div>
 
