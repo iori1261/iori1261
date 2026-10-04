@@ -1,6 +1,6 @@
 <div align="center">
 
-# IORI
+# IORI YOSHIMURA(吉村 伊織)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&height=40&lines=SRE%E3%83%BB%20Platform%20Engineer%20%2F%20Developer%20Enablement" alt="SRE・Platform Engineer / Developer Enablement" />
 
