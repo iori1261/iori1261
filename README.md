@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&height=40&lines=SRE%E3%83%BB%20Platform%20Engineer%20%2F%20Developer%20Enablement" alt="SRE・Platform Engineer / Developer Enablement" />
 
+<br />
+
+<a href="https://zenn.dev/ir63"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
+<a href="https://qiita.com/IORI1261"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
+<a href="https://x.com/ioriwebservice"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+
 </div>
 
 ## 🙋‍♂️ About Me
