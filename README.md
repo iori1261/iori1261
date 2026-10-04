@@ -42,10 +42,10 @@ SRE / Platform Engineering | Azure · Terraform · GitHub · New Relic | DevOps,
 
 ### 🤖 Personal Dev / Tools
 
-- Electron / TypeScript でのデスクトップアプリ開発
-- Claude Code 連携ツールの自作
-- AWS セキュリティ可視化ツールの開発
-- 自作 CLI ツールによる業務効率化
+- 🤖 標準の CLAUDE.md を対象リポジトリへ PR として提案する Python CLI を自作（直接は変更せず、結果は Slack に通知）
+- 💴 GitHub Copilot のトークン消費を円換算し、何が買えるかまで見せる canvas を開発
+- 🧒 オフラインで動く、小学生向けの自己紹介サイト作成ツールをローカル配布
+- 🖥️ C# / WinForms で、CPU・GPU・電源を組み合わせる PC 構成アプリを作成
 
 </td>
 </tr>
