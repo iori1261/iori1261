@@ -2,21 +2,13 @@
 
 # IORI
 
-**インフラ設計から、バックエンド・フロントエンドまで。**
-
-SRE
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=40&lines=SRE;Microsoft%20Azure;Terraform;New%20Relic;PagerDuty;DevOps;FinOps" alt="SRE / Microsoft Azure / Terraform / New Relic / PagerDuty / DevOps / FinOps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&height=40&lines=SRE%E3%83%BB%20Platform%20Engineer%20%2F%20Developer%20Enablement" alt="SRE・ Platform Engineer / Developer Enablement" />
 
 </div>
 
 ## 🙋‍♂️ About Me
 
-インフラ設計からバックエンド・フロントエンドまで、一貫して対応できるエンジニアです。
-
-SRE として Terraform / AWS を中心に、インフラの設計・構築・運用を担当しています。セキュリティ・可用性・コストの 3 軸を意識した IaC と、オンコール対応や障害調査などの運用改善が専門です。
-
-業務の傍ら、個人開発では開発体験を上げるツールや、AI（Claude）を活用したプロダクトづくりに取り組んでいます。今後は技術力をベースに、AI 領域のマネジメントとプロダクト開発のリードへキャリアを広げていきたいと考えています。
+SRE / Platform Engineering | Azure · Terraform · GitHub · New Relic | DevOps, Developer Enablement & Observability
 
 ## 🔧 What I Do
 
@@ -59,7 +51,7 @@ SRE として Terraform / AWS を中心に、インフラの設計・構築・�
 
 ## 💻 Tech Stack
 
-### Infrastructure
+### SRE
 
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
