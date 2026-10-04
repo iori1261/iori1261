@@ -101,6 +101,16 @@ SRE / Platform Engineering | DevOps, Developer Enablement & Observability
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
+## 🏅 Certifications / 認定資格
+
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104 Azure Administrator Associate" />
+  <img src="https://img.shields.io/badge/Applied_Information-IPA-1B4F72?style=for-the-badge" alt="応用情報技術者試験" />
+</p>
+
+- **AZ-104** Microsoft Certified: Azure Administrator Associate
+- **応用情報技術者試験**
+
 ## 🚀 Featured Projects
 
 <table>
